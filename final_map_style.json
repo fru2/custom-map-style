@@ -2139,7 +2139,8 @@
         "text-font": ["Noto Sans Italic"],
         "text-letter-spacing": 0.2,
         "text-max-width": 5,
-        "text-size": ["interpolate", ["linear"], ["zoom"], 0, 10, 8, 14]
+        "text-size": ["interpolate", ["linear"], ["zoom"], 0, 10, 8, 14],
+        "visibility": "none"
       },
       "paint": {
         "text-color": "#495e91",
